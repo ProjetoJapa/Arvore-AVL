@@ -2,7 +2,7 @@
 Arvore AVL - JAVA
 
 Implementação AVL
-O intuito do código não é comparar nem unicamente dizer que estar certo, apenas facilitar para  quem necessitar de um exemplod e AVL.
+O intuito do código não é comparar nem unicamente dizer que estar certo, apenas facilitar para  quem necessitar de um exemplo de AVL.
 
 1. Incluir novo elemento
 2. Apagar um elemento existente 
